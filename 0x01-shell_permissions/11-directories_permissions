@@ -1,0 +1,3 @@
+#!/bin/bash
+chomd -R ugo+X .
+chmod --reference=olleh hello
